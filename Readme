@@ -1,0 +1,56 @@
+# Template Email izicagn
+
+Prévisualisation du template email pour izicagn.
+
+## Comment utiliser
+1. Remplacer les images dans le dossier `images/`
+2. Modifier le HTML/CSS si besoin
+3. Le site est automatiquement publié via GitHub Pages
+
+[Voir la prévisualisation](https://[Jorgo69].github.io/Email-Template/)
+
+# 🚀 Template Email - izicagn
+
+Template HTML/CSS responsive pour l'email de confirmation de pré-inscription à izicagn.
+
+## 🌟 Aperçu en direct
+[![Prévisualisation](https://img.shields.io/badge/Preview-Voir%20la%20page-blue?style=for-the-badge)](https://Jorgo69.github.io/Email-Template/)
+
+## 🛠 Fonctionnalités
+- **100% HTML/CSS** (Aucun JavaScript requis)
+- Design **responsive** adapté aux mobiles
+- Compatibilité avec les principaux **clients email**
+- Espaces réservés clairs pour les images
+- Structure modulaire facile à personnaliser
+
+## 🖼 Assets à remplacer
+Placez ces fichiers dans le dossier `images/` :
+| Fichier               | Description                | Dimensions recommandées |
+|-----------------------|----------------------------|-------------------------|
+| `logo.png`            | Logo principal             | 150-200px de large      |
+| `timer-icon.png`      | Icône de compte à rebours  | 24x24px                 |
+| `facebook-icon.png`   | Icône Facebook             | 32x32px                 |
+| `twitter-icon.png`    | Icône Twitter/X            | 32x32px                 |
+| `instagram-icon.png`  | Icône Instagram            | 32x32px                 |
+| `linkedin-icon.png`   | Icône LinkedIn             | 32x32px                 |
+
+## 🛠 Installation
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/Jorgo69/Email-Template.git
+
+---------------------------------------------------------------------------------
+
+#### Concernant les tokens: Par defaut
+
+XS ≈ 4px
+
+S ≈ 8px
+
+M ≈ 16px
+
+L ≈ 24px
+
+XL ≈ 32px
+
+XXL ≈ 48px
